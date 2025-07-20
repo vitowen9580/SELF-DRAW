@@ -8,4 +8,5 @@ Unpaired training methods have garnered increasing interest as a practical appro
 # Using the code:
 Clone this repository:
 ```bib
-https://github.com/vitowen9580/SELF-DRAW.git
+git clone https://github.com/vitowen9580/SELF-DRAW.git
+cd SELF-DRAW
